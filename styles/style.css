@@ -1,0 +1,58 @@
+/* Default Font */
+.logo-dflt-font {
+    font-family: "Work Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 34px;
+    color: #4E47FF;
+}
+
+.website-dflt-font {
+    font-family: "Work Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    color: #252432;
+}
+
+/* Default Color */
+.dflt-color {}
+
+/* Header part */
+header {
+    background-image: url(../Assets/Hero-bg.png);
+    height: 698px;
+}
+
+/*Navigation Bar*/
+nav {
+    display: flex;
+    justify-content: space-between;
+    width: 1140px;
+    margin: 0 auto;
+    padding: 10px 20px;
+    align-items: center;
+}
+
+.btn-primary {
+    padding: 15px 25px;
+    background-color: #4E47FF;
+    color: white;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+}
+
+.stay-focused {
+    width: 905px;
+    margin: 0 auto;
+    justify-items: center;
+    margin-top: 158px;
+}
+
+.stay-focused h1 {
+    font-size: 65px;
+    font-weight: bold;
+    text-align: center;
+}

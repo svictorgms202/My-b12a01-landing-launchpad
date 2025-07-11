@@ -56,3 +56,40 @@ nav {
     font-weight: bold;
     text-align: center;
 }
+
+/* action-section */
+.action-section {
+    width: 1140px;
+    height: 328px;
+    margin: 116px auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.action-sec-left-area {
+    width: 517px;
+
+}
+
+.action-sec-left-area h3 {
+    font-size: 42px;
+    font-weight: bold;
+}
+
+.action-sec-left-area p {
+    font-size: 24px;
+}
+
+.action-sec-right-area img {
+    border-radius: 50px;
+}
+
+/* productive-user section */
+.productive-user {
+    width: 1140px;
+    height: 306px;
+    background-color: #4E47FF20;
+}
+
+.users-ratio {}

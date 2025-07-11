@@ -171,6 +171,7 @@ nav {
     border-radius: 10px;
     border-style: none;
     display: block;
+    margin-bottom: 20px;
 }
 
 .get-in-touch-right-side ::placeholder {
@@ -343,4 +344,8 @@ footer {
 
 .ready-to-focus-img img {
     border-radius: 50px;
+}
+
+button:hover {
+    background-color: cadetblue;
 }

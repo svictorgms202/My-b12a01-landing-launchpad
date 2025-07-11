@@ -127,3 +127,65 @@ nav {
     font-weight: 300;
     color: #00000080;
 }
+
+/* get-in-touch */
+.get-in-touch {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 1140px;
+    height: 632px;
+    margin: 0 auto;
+
+
+}
+
+.get-in-touch-left-side {
+    width: 600px;
+    height: 490px;
+    font-size: 60px;
+    font-weight: bold;
+    font-family: "Work Sans", sans-serif;
+    display: flex;
+}
+
+
+
+.get-in-touch-right-side {
+    width: 497px;
+    height: 490px;
+}
+
+.get-in-touch-right-side label {
+    display: block;
+    font-family: "Work Sans", sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+    margin-bottom: 5px;
+}
+
+.get-in-touch-right-side input {
+    width: 497px;
+    height: 70px;
+    border-radius: 10px;
+    border-style: none;
+    display: block;
+}
+
+.get-in-touch-right-side ::placeholder {
+    padding: 10px 20px;
+    font-size: 18px;
+    font-family: "Work Sans", sans-serif;
+
+}
+
+.get-in-touch-right-side textarea {
+    border-radius: 10px;
+    border-style: none;
+    margin-bottom: 10px;
+}
+
+.get-in-touch-right-side button {
+    width: 497px;
+    height: 60px;
+}
